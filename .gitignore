@@ -1,0 +1,17 @@
+# Magento
+/app/etc/local.xml
+/media/*
+/var/*
+/downloader/.cache
+/downloader/cache.cfg
+/downloader/connect.cfg
+/errors/local.xml
+/app/etc/local.xml.phpunit
+
+# PhpStorm
+*.map
+/.idea
+.DS_Store
+# Composer
+/composer.lock
+/vendor
